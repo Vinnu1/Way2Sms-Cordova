@@ -24,4 +24,4 @@ on your server.
 In PHP file sendmessage.php, you have to provide your account number and password of Way2SMS.
 
 # Credits
-The Way2SMS api is made by kingster and can be found (here)[https://github.com/kingster/Way2SMS-API].
+The Way2SMS api is made by kingster and can be found [here](https://github.com/kingster/Way2SMS-API).
