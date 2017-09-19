@@ -25,3 +25,6 @@ In PHP file sendmessage.php, you have to provide your account number and passwor
 
 # Credits
 The Way2SMS api is made by kingster and can be found [here](https://github.com/kingster/Way2SMS-API).
+
+# Complete Application
+If you want the whole application with all the files and plugins. You just have to add platform and build the cordova application. The whole app repository is [here](https://github.com/Vinnu1/Way2Sms-Cordova-whole).
